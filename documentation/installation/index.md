@@ -11,5 +11,5 @@ ha hah demo!
 ---
 
 > 作者: [semifly](https://semifly.top)  
-> URL: http://localhost:1313/documentation/installation/  
+> URL: http://localhost/documentation/installation/  
 
